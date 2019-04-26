@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue
+}
+li{
+    font-size: 25px;
+   color: rebeccapurple;
+    }
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin:0;
+    color: rebeccapurple;
+}
+.js{
+    color:pink;
+}
+#id{
+    font-size: 30px;
+    text-align: center;
+    color:rebeccapurple;
+}
+#js2{
+    color:green;
+}
+body{
+    margin:0; 
+}
+
+div{
+    display:grid;
+}
+.grid{
+    display:"grid";
+    grid-template-columns: 150px 1fr;
+}
